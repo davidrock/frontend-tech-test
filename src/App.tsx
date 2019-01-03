@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import "./components/topbar/TopBarMenu";
 import TopBarMenu from "./components/topbar/TopBarMenu";
+import Login from "./pages/Login";
 
 class App extends Component {
   render() {
